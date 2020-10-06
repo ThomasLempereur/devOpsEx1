@@ -4,7 +4,8 @@
 
 	# Variables globales du site
 	define('CHEMIN_VUES','views/');
-    define('EMAIL','jeanluc.collinet@ipl.be');
+    define('EMAIL','max.legrelle@student.vinci.be');
+	define('EMAIL_T','thomas.lempereur@student.vinci.be');
 	$date = date("j/m/Y");
 	
 	# Require des classes automatisé
